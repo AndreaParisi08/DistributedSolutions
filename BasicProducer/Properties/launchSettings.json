@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BasicProducer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

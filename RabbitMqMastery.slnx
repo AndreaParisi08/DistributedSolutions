@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BasicConsumer/BasicConsumer.csproj" />
+  <Project Path="BasicProducer/BasicProducer.csproj" />
+</Solution>
