@@ -1,4 +1,9 @@
 <Solution>
-  <Project Path="BasicConsumer/BasicConsumer.csproj" />
-  <Project Path="BasicProducer/BasicProducer.csproj" />
+  <Folder Name="/1_Fundamentals/">
+    <Project Path="BasicConsumer/BasicConsumer.csproj" />
+    <Project Path="BasicProducer/BasicProducer.csproj" />
+  </Folder>
+  <Folder Name="/2_Routing/" />
+  <Folder Name="/3_Resilience/" />
+  <Folder Name="/4_ArchitecturalPattern/" />
 </Solution>
