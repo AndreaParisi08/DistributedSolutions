@@ -1,7 +1,7 @@
 <Solution>
   <Folder Name="/1_Fundamentals/">
-    <Project Path="1_Fundamentals/BasicConsumer/BasicConsumer.csproj" />
-    <Project Path="1_Fundamentals/BasicProducer/BasicProducer.csproj" />
+    <Project Path="src/01-Fundamentals/BasicConsumer/BasicConsumer.csproj" />
+    <Project Path="src/01-Fundamentals/BasicProducer/BasicProducer.csproj" />
   </Folder>
   <Folder Name="/2_Routing/" />
   <Folder Name="/3_Resilience/" />
